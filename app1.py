@@ -5,10 +5,10 @@ def main():
 
 def namibia():
     bird = 5000
-    print('Namibia has' bird, 'bird.')
+    print(f'Namibia has {bird} bird.')
 
 def angola():
     bird = 3000
-    print('Angola has' bird, 'bird')
+    print('Angola has {bird} bird.')
 
 main()
